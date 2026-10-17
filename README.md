@@ -179,3 +179,4 @@ cosine similarity pada representasi BoW menjadi penentu ranking akhir sesuai ket
 | `Dataset tidak ditemukan` | Pastikan kelima file CSV ada di folder `datasets/` dengan nama yang benar |
 | `Index belum ada` | Jalankan menu `[1] Load & Index Dataset` sebelum menu `[2]` |
 | Indexing terasa lama | Normal (sekitar 2 menit); untuk uji cepat batasi 500 dokumen per dataset |
+
