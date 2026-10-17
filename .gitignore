@@ -1,0 +1,5 @@
+index_dir/
+datasets/*.csv
+__pycache__/
+*.pyc
+*.pdf
