@@ -15,7 +15,7 @@ Sistem Information Retrieval berbasis *Command-Line Interface* yang mencari dan 
 
 ## Anggota Tim
 
-Kelompok [No. Kelompok]
+Kelompok 09
 
 | Nama | NPM | Bagian |
 |------|-----|--------|
