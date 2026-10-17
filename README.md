@@ -19,9 +19,9 @@ Kelompok [No. Kelompok]
 
 | Nama | NPM | Bagian |
 |------|-----|--------|
-| Putroe | [NPM] | Preprocessing: `stopwords.py`, `preprocessing.py` |
-| Fayla  | [NPM] | Indexing Whoosh: `config.py`, `indexer.py` |
-| Annisa | [NPM] | Pencarian & ranking cosine, CLI: `searcher.py`, `main.py`, README |
+| Putroe Fatimah Azzahra | [2408107010002] | Preprocessing: `stopwords.py`, `preprocessing.py` |
+| Fayla Syifa Rustam  | [2408107010029] | Indexing Whoosh: `config.py`, `indexer.py` |
+| Annisa Rahma Fathia | [2408107010027] | Pencarian & ranking cosine, CLI: `searcher.py`, `main.py`, README |
 
 ## Fitur
 
